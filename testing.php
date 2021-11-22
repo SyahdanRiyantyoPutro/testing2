@@ -1,6 +1,6 @@
 <?php
 
-echo "Halo dunia!";
+echo "Halo KEPARAT!";
 echo "Coba coba belajar git";
 echo "Yang ini gua ubah soalnya udah gak nyoba hehehe";
 echo "nyoba branching";
